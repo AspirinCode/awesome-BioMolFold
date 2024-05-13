@@ -16,6 +16,12 @@
 
 
 
+* **Improved protein structure prediction using potentials from deep learning** [2020]  
+Senior, A.W., Evans, R., Jumper, J. et al.   
+[Nature 577, 706–710 (2020)](https://doi.org/10.1038/s41586-019-1923-7) | [code](https://github.com/google-deepmind/deepmind-research/tree/master/alphafold_casp13)
+
+
+
 ## AlphaFold 2
 
 

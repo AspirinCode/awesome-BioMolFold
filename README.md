@@ -7,6 +7,7 @@
 | ------ | :---------- | ------ | ------ |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
 |  | [RoseTTAFold](#rosettafold) |  |  |
+| [OpenFold](#openfold) |  |  |  |
 | [ESMFold](#esmfold) |  |  |  |
 
 
@@ -67,6 +68,16 @@ Baek, Minkyung, Frank DiMaio, Ivan Anishchenko, Justas Dauparas, Sergey Ovchinni
 
 
 
+
+
+
+
+## OpenFold
+
+
+* **OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization** [2022]  
+Ahdritz, Gustaf, Nazim Bouatta, Sachin Kadyan, Qinghui Xia, William Gerecke, Timothy J. O’Donnell, Daniel Berenberg et al.   
+[Biorxiv (2022)](https://doi.org/10.1101/2022.11.20.517210) | [code](https://github.com/aqlaboratory/openfold)
 
 
 

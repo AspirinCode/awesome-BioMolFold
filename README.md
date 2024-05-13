@@ -6,7 +6,7 @@
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
-|  |  |  |  |
+|  | [RoseTTAFold](#rosettafold) |  |  |
 |  |  |  |  |
 
 
@@ -53,7 +53,12 @@ JEvans, Richard, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew
 
 
 
+## RoseTTAFold
 
+
+* **Accurate prediction of protein structures and interactions using a three-track neural network** [2021]  
+Baek, Minkyung, Frank DiMaio, Ivan Anishchenko, Justas Dauparas, Sergey Ovchinnikov, Gyu Rie Lee, Jue Wang et al.   
+[Science 373.6557 (2021)](https://doi.org/10.1126/science.abj8754) | [code](https://github.com/RosettaCommons/RoseTTAFold)
 
 
 

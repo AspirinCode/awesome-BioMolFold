@@ -5,7 +5,7 @@
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
-| [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) |  |
+| [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -40,6 +40,17 @@ Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Ola
 * **Accurate structure prediction of biomolecular interactions with AlphaFold 3** [2024]  
 Abramson, J., Adler, J., Dunger, J. et al.   
 [Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)
+
+
+
+## AlphaFold-Multimer
+
+
+* **Protein complex prediction with AlphaFold-Multimer** [2021]  
+JEvans, Richard, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Žídek et al.   
+[biorxiv (2021)](https://doi.org/10.1101/2021.10.04.463034) | [code](https://github.com/google-deepmind/alphafold)
+
+
 
 
 

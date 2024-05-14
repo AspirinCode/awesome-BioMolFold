@@ -251,7 +251,9 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 ## RNA-Protein ComplexFold
 
 
-
+* **Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA** [2024]  
+Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Frank DiMaio.   
+[Nature Methods 21.1 (2024)](https://doi.org/10.1038/s41592-023-02086-5) | [code](https://github.com/uw-ipd/RoseTTAFold2NA)
 
 
 
@@ -264,7 +266,9 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 ## DNA-Protein ComplexFold
 
 
-
+* **Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA** [2024]  
+Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Frank DiMaio.   
+[Nature Methods 21.1 (2024)](https://doi.org/10.1038/s41592-023-02086-5) | [code](https://github.com/uw-ipd/RoseTTAFold2NA)
 
 
 
@@ -279,7 +283,9 @@ Wu, Fandi, Yu Zhao, Jiaxiang Wu, Biaobin Jiang, Bing He, Longkai Huang, Chenchen
 Wu, Fandi, Yu Zhao, Jiaxiang Wu, Biaobin Jiang, Bing He, Longkai Huang, Chenchen Qin et al.   
 [bioRxiv (2024)](https://doi.org/10.1101/2024.02.05.578892) | [sever](https://drug.ai.tencent.com/en)
 
-
+* **Accurate structure prediction of biomolecular interactions with AlphaFold 3** [2024]  
+Abramson, J., Adler, J., Dunger, J. et al.   
+[Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)
 
 
 

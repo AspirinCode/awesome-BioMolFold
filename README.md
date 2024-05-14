@@ -271,9 +271,13 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 ## Antibody-Antigen ComplexFold
 
 
+* **AntiFold: Improved antibody structure design using inverse folding** [2023]  
+Wu, Fandi, Yu Zhao, Jiaxiang Wu, Biaobin Jiang, Bing He, Longkai Huang, Chenchen Qin et al.   
+[NeurIPS 2023 Generative AI and Biology (GenBio) Workshop. (2023)](https://openreview.net/forum?id=bxZMKHtlL6) | [code](https://github.com/oxpig/AntiFold)
 
-
-
+* **Fast and accurate modeling and design of antibody-antigen complex using tFold** [2024]  
+Wu, Fandi, Yu Zhao, Jiaxiang Wu, Biaobin Jiang, Bing He, Longkai Huang, Chenchen Qin et al.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.02.05.578892) | [sever](https://drug.ai.tencent.com/en)
 
 
 

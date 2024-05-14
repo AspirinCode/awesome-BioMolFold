@@ -7,7 +7,7 @@
 | ------ | :---------- | ------ | ------ |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
 |  | [RoseTTAFold](#rosettafold) |  |  |
-| [OpenFold](#openfold) |  |  |  |
+| [OpenFold](#openfold) | [Uni-Fold](#uni-fold) |  |  |
 | [ESMFold](#esmfold) |  |  |  |
 
 
@@ -92,7 +92,13 @@ Lin, Zeming, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita
 
 
 
+## Uni-Fold
 
+
+
+* **Uni-Fold: An Open-Source Platform for Developing Protein Folding Models beyond AlphaFold** [2022]  
+Li, Ziyao, Xuyang Liu, Weijie Chen, Fan Shen, Hangrui Bi, Guolin Ke, and Linfeng Zhang.   
+[bioRxiv (2022)](https://doi.org/10.1101/2022.08.04.502811) | [code](https://github.com/dptech-corp/Uni-Fold)
 
 
 

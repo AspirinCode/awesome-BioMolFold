@@ -143,9 +143,17 @@ Lin, Zeming, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita
 
 ## RNAFold
 
+* **RNA secondary structure prediction by learning unrolled algorithms** [2020]  
+Chen, Xinshi, Yu Li, Ramzan Umarov, Xin Gao, and Le Song.   
+[arXiv:2002.05810 (2020)](https://arxiv.org/abs/2002.05810) | [code](https://github.com/ml4bio/e2efold)
 
+* **RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models** [2024]  
+Huang, Han, Ziqian Lin, Dongchen He, Liang Hong, and Yu Li.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.04.18.590187) | [code](https://github.com/GRAPH-0/RiboDiffusion)
 
-
+* **RNAformer: A Simple Yet Effective Deep Learning Model for RNA Secondary Structure Prediction** [2024]  
+Franke, Joerg KH, Frederic Runge, Ryan Koeksal, Rolf Backofen, and Frank Hutter.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.02.12.579881) | [code](https://github.com/automl/RNAformer)
 
 
 

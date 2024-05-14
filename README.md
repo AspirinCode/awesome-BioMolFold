@@ -147,6 +147,10 @@ Lin, Zeming, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita
 Chen, Xinshi, Yu Li, Ramzan Umarov, Xin Gao, and Le Song.   
 [arXiv:2002.05810 (2020)](https://arxiv.org/abs/2002.05810) | [code](https://github.com/ml4bio/e2efold)
 
+* **OpenComplex: RNA and protein-RNA complex models with high precision** [2022]  
+Jingcheng, Yu and Zhaoming, Chen and Zhaoqun, Li and Mingliang, Zeng and Wenjun, Lin and He, Huang and Qiwei, Ye.   
+[code](https://github.com/baaihealth/OpenComplex)
+
 * **RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models** [2024]  
 Huang, Han, Ziqian Lin, Dongchen He, Liang Hong, and Yu Li.   
 [bioRxiv (2024)](https://doi.org/10.1101/2024.04.18.590187) | [code](https://github.com/GRAPH-0/RiboDiffusion)
@@ -258,6 +262,9 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 
 ## RNA-Protein ComplexFold
 
+* **OpenComplex: RNA and protein-RNA complex models with high precision** [2022]  
+Jingcheng, Yu and Zhaoming, Chen and Zhaoqun, Li and Mingliang, Zeng and Wenjun, Lin and He, Huang and Qiwei, Ye.   
+[code](https://github.com/baaihealth/OpenComplex)
 
 * **Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA** [2024]  
 Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Frank DiMaio.   

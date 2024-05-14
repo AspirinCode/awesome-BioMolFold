@@ -7,7 +7,7 @@
 | ------ | :---------- | ------ | ------ |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
 |  | [RoseTTAFold](#rosettafold) |  |  |
-| [OpenFold](#openfold) | [Uni-Fold](#uni-fold) | [OmegaFold](#omegafold) |  |
+| [OpenFold](#openfold) | [Uni-Fold](#uni-fold) | [OmegaFold](#omegafold) | [EquiFold](#equifold) |
 | [ESMFold](#esmfold) |  |  |  |
 
 
@@ -104,6 +104,15 @@ Li, Ziyao, Xuyang Liu, Weijie Chen, Fan Shen, Hangrui Bi, Guolin Ke, and Linfeng
 Wu, Ruidong, Fan Ding, Rui Wang, Rui Shen, Xiwen Zhang, Shitong Luo, Chenpeng Su et al.   
 [bioRxiv (2022)](https://doi.org/10.1101/2022.07.21.500999) | [code](https://github.com/HeliXonProtein/OmegaFold)
 
+
+
+## EquiFold
+
+
+
+* **EquiFold: Protein Structure Prediction with a Novel Coarse-Grained Structure Representation** [2022]  
+Lee, Jae Hyeon, Payman Yadollahpour, Andrew Watkins, Nathan C. Frey, Andrew Leaver-Fay, Stephen Ra, Kyunghyun Cho, Vladimir Gligorijević, Aviv Regev, and Richard Bonneau.   
+[bioRxiv (2022)](https://doi.org/10.1101/2022.10.07.511322) | [code](https://github.com/Genentech/equifold)
 
 
 

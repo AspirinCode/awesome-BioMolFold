@@ -7,7 +7,7 @@
 | ------ | :---------- | ------ | ------ |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
 |  | [RoseTTAFold](#rosettafold) |  |  |
-| [OpenFold](#openfold) | [Uni-Fold](#uni-fold) | OmegaFold](#omegafold) |  |
+| [OpenFold](#openfold) | [Uni-Fold](#uni-fold) | [OmegaFold](#omegafold) |  |
 | [ESMFold](#esmfold) |  |  |  |
 
 

@@ -214,7 +214,9 @@ Abramson, J., Adler, J., Dunger, J. et al.
 ## AntibodyFold
 
 
-
+* **Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies** [2023]  
+Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.   
+[Nature communications 14.1 (2023)](Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies) | [code](https://github.com/Graylab/IgFold)
 
 
 

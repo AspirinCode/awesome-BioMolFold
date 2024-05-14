@@ -7,7 +7,7 @@
 | ------ | :---------- | ------ | ------ |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
 |  | [RoseTTAFold](#rosettafold) |  |  |
-| [OpenFold](#openfold) | [Uni-Fold](#uni-fold) |  |  |
+| [OpenFold](#openfold) | [Uni-Fold](#uni-fold) | OmegaFold](#omegafold) |  |
 | [ESMFold](#esmfold) |  |  |  |
 
 
@@ -82,13 +82,6 @@ Ahdritz, Gustaf, Nazim Bouatta, Sachin Kadyan, Qinghui Xia, William Gerecke, Tim
 
 
 
-## ESMFold
-
-
-
-* **Evolutionary-scale prediction of atomic-level protein structure with a language model** [2023]  
-Lin, Zeming, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin et al.   
-[Science 379.6637 (2023)](https://doi.org/10.1126/science.ade2574) | [code](https://github.com/facebookresearch/esm)
 
 
 
@@ -103,7 +96,25 @@ Li, Ziyao, Xuyang Liu, Weijie Chen, Fan Shen, Hangrui Bi, Guolin Ke, and Linfeng
 
 
 
+## OmegaFold
 
+
+
+* **High-resolution de novo structure prediction from primary sequence** [2022]  
+Wu, Ruidong, Fan Ding, Rui Wang, Rui Shen, Xiwen Zhang, Shitong Luo, Chenpeng Su et al.   
+[bioRxiv (2022)](https://doi.org/10.1101/2022.07.21.500999) | [code](https://github.com/HeliXonProtein/OmegaFold)
+
+
+
+
+
+## ESMFold
+
+
+
+* **Evolutionary-scale prediction of atomic-level protein structure with a language model** [2023]  
+Lin, Zeming, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin et al.   
+[Science 379.6637 (2023)](https://doi.org/10.1126/science.ade2574) | [code](https://github.com/facebookresearch/esm)
 
 
 

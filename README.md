@@ -3,6 +3,9 @@
 **Updating ...**  
 
 
+
+**Folding Tool Collection**
+
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
@@ -11,7 +14,7 @@
 | [ESMFold](#esmfold) |  |  |  |
 
 
-## Based on the classification of biomolecules
+**Based on the classification of biomolecules**
 
 
 | Menu | Menu | Menu | Menu |
@@ -29,8 +32,10 @@ https://github.com/biolists/folding_tools
 
 
 
+## Folding Tool Collection
 
-## AlphaFold
+
+### AlphaFold
 
 
 
@@ -40,7 +45,7 @@ Senior, A.W., Evans, R., Jumper, J. et al.
 
 
 
-## AlphaFold 2
+### AlphaFold 2
 
 
 
@@ -52,7 +57,7 @@ Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Ola
 
 
 
-## AlphaFold 3
+### AlphaFold 3
 
 
 * **Accurate structure prediction of biomolecular interactions with AlphaFold 3** [2024]  
@@ -61,7 +66,7 @@ Abramson, J., Adler, J., Dunger, J. et al.
 
 
 
-## AlphaFold-Multimer
+### AlphaFold-Multimer
 
 
 * **Protein complex prediction with AlphaFold-Multimer** [2021]  
@@ -76,7 +81,7 @@ JEvans, Richard, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew
 
 
 
-## RoseTTAFold
+### RoseTTAFold
 
 
 * **Accurate prediction of protein structures and interactions using a three-track neural network** [2021]  
@@ -91,7 +96,7 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 
 
 
-## OpenFold
+### OpenFold
 
 
 * **OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization** [2022]  
@@ -104,7 +109,7 @@ Ahdritz, Gustaf, Nazim Bouatta, Sachin Kadyan, Qinghui Xia, William Gerecke, Tim
 
 
 
-## Uni-Fold
+### Uni-Fold
 
 
 
@@ -115,7 +120,7 @@ Li, Ziyao, Xuyang Liu, Weijie Chen, Fan Shen, Hangrui Bi, Guolin Ke, and Linfeng
 
 
 
-## OmegaFold
+### OmegaFold
 
 
 
@@ -125,7 +130,7 @@ Wu, Ruidong, Fan Ding, Rui Wang, Rui Shen, Xiwen Zhang, Shitong Luo, Chenpeng Su
 
 
 
-## EquiFold
+### EquiFold
 
 
 
@@ -136,7 +141,7 @@ Lee, Jae Hyeon, Payman Yadollahpour, Andrew Watkins, Nathan C. Frey, Andrew Leav
 
 
 
-## ESMFold
+### ESMFold
 
 
 
@@ -147,8 +152,11 @@ Lin, Zeming, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita
 
 
 
+## Based on the classification of biomolecules
 
-## RNAFold
+
+
+### RNAFold
 
 * **RNA secondary structure prediction by learning unrolled algorithms** [2020]  
 Chen, Xinshi, Yu Li, Ramzan Umarov, Xin Gao, and Le Song.   
@@ -168,14 +176,14 @@ Franke, Joerg KH, Frederic Runge, Ryan Koeksal, Rolf Backofen, and Frank Hutter.
 
 
 
-## mRNAFold
+### mRNAFold
 
 
 
 
 
 
-## DNAFold
+### DNAFold
 
 
 
@@ -183,14 +191,14 @@ Franke, Joerg KH, Frederic Runge, Ryan Koeksal, Rolf Backofen, and Frank Hutter.
 
 
 
-## peptideFold
+### peptideFold
 
 
 
 
 
 
-## ProteinFold
+### ProteinFold
 
 * **Improved protein structure prediction using potentials from deep learning** [2020]  
 Senior, A.W., Evans, R., Jumper, J. et al.   
@@ -230,7 +238,7 @@ Abramson, J., Adler, J., Dunger, J. et al.
 
 
 
-## AntibodyFold
+### AntibodyFold
 
 
 * **Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies** [2023]  
@@ -240,7 +248,7 @@ Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.
 
 
 
-## Protein-Protein ComplexFold
+### Protein-Protein ComplexFold
 
 
 * **Protein complex prediction with AlphaFold-Multimer** [2021]  
@@ -252,7 +260,7 @@ Abramson, J., Adler, J., Dunger, J. et al.
 [Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)
 
 
-## Peptide-Protein ComplexFold
+### Peptide-Protein ComplexFold
 
 * **Protein complex prediction with AlphaFold-Multimer** [2021]  
 JEvans, Richard, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Žídek et al.   
@@ -267,7 +275,7 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 [Nature Methods 21.1 (2024)](https://doi.org/10.1038/s41592-023-02086-5) | [code](https://github.com/uw-ipd/RoseTTAFold2NA)
 
 
-## RNA-Protein ComplexFold
+### RNA-Protein ComplexFold
 
 * **OpenComplex: RNA and protein-RNA complex models with high precision** [2022]  
 Jingcheng, Yu and Zhaoming, Chen and Zhaoqun, Li and Mingliang, Zeng and Wenjun, Lin and He, Huang and Qiwei, Ye.   
@@ -285,7 +293,7 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 
 
 
-## DNA-Protein ComplexFold
+### DNA-Protein ComplexFold
 
 
 * **Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA** [2024]  
@@ -294,7 +302,7 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 
 
 
-## Antibody-Antigen ComplexFold
+### Antibody-Antigen ComplexFold
 
 
 * **AntiFold: Improved antibody structure design using inverse folding** [2023]  

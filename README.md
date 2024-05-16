@@ -190,6 +190,14 @@ Franke, Joerg KH, Frederic Runge, Ryan Koeksal, Rolf Backofen, and Frank Hutter.
 
 
 
+* **Prediction of DNA origami shape using graph neural network** [2024]  
+Truong-Quoc, C., Lee, J.Y., Kim, K.S. et al.   
+[Nat. Mater. (2024)](https://doi.org/10.1038/s41563-024-01846-8) | [code](https://github.com/SSDL-SNU/DeepSNUPI)
+
+
+
+
+
 
 ### peptideFold
 

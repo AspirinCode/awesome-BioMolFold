@@ -9,7 +9,7 @@
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
-|  | [RoseTTAFold](#rosettafold) |  |  |
+|  | [RoseTTAFold](#rosettafold) | RoseTTAFold2](#rosettafold2) |  |
 | [OpenFold](#openfold) | [Uni-Fold](#uni-fold) | [OmegaFold](#omegafold) | [EquiFold](#equifold) |
 | [ESMFold](#esmfold) |  |  |  |
 
@@ -93,6 +93,22 @@ Baek, Minkyung, Frank DiMaio, Ivan Anishchenko, Justas Dauparas, Sergey Ovchinni
 * **Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA** [2024]  
 Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Frank DiMaio.   
 [Nature Methods 21.1 (2024)](https://doi.org/10.1038/s41592-023-02086-5) | [code](https://github.com/uw-ipd/RoseTTAFold2NA)
+
+
+
+
+
+
+### RoseTTAFold2
+
+
+
+* **Efficient and accurate prediction of protein structure using RoseTTAFold2** [2023]  
+Baek, Minkyung, Ivan Anishchenko, Ian Humphreys, Qian Cong, David Baker, and Frank DiMaio.   
+[bioRxiv (2023))](https://doi.org/10.1126/science.abj8754) | [code](https://github.com/uw-ipd/RoseTTAFold2)
+
+
+
 
 
 

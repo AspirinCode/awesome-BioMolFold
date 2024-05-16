@@ -73,7 +73,9 @@ Abramson, J., Adler, J., Dunger, J. et al.
 JEvans, Richard, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Žídek et al.   
 [biorxiv (2021)](https://doi.org/10.1101/2021.10.04.463034) | [code](https://github.com/google-deepmind/alphafold)
 
-
+* **Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search** [2022]  
+Bryant, P., Pozzati, G., Zhu, W. et al.   
+[Nat Commun 13, 6028 (2022)](https://doi.org/10.1038/s41467-022-33729-4) | [code](https://github.com/patrickbryant1/MoLPC)
 
 
 

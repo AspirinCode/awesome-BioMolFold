@@ -206,7 +206,13 @@ Truong-Quoc, C., Lee, J.Y., Kim, K.S. et al.
 ### peptideFold
 
 
+* **PSSP-MVIRT: peptide secondary structure prediction based on a multi-view deep learning architecture** [2021]  
+Xiao Cao, Wenjia He, Zitan Chen, Yifan Li, Kexin Wang, Hongbo Zhang, Lesong Wei, Lizhen Cui, Ran Su, Leyi Wei.   
+[Briefings in Bioinformatics (2021)](https://doi.org/10.1093/bib/bbab203)  | [sever](https://server.wei-group.net/PSSP-MVIRT)  
 
+* **Benchmarking AlphaFold2 on peptide structure prediction** [2023]  
+McDonald, Eli Fritz, Taylor Jones, Lars Plate, Jens Meiler, and Alican Gulsevin.   
+[Structure 31.1 (2023)](https://doi.org/10.1016/j.str.2022.11.012)   
 
 
 

@@ -162,6 +162,10 @@ Lin, Zeming, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita
 Chen, Xinshi, Yu Li, Ramzan Umarov, Xin Gao, and Le Song.   
 [arXiv:2002.05810 (2020)](https://arxiv.org/abs/2002.05810) | [code](https://github.com/ml4bio/e2efold)
 
+* **Geometric deep learning of RNA structure** [2021]  
+Townshend, Raphael JL, Stephan Eismann, Andrew M. Watkins, Ramya Rangan, Masha Karelina, Rhiju Das, and Ron O. Dror.   
+[Science 373.6558 (2021)](https://doi.org/10.1126/science.abe5650) | [code](https://drorlab.stanford.edu/ares.html)
+
 * **OpenComplex: RNA and protein-RNA complex models with high precision** [2022]  
 Jingcheng, Yu and Zhaoming, Chen and Zhaoqun, Li and Mingliang, Zeng and Wenjun, Lin and He, Huang and Qiwei, Ye.   
 [code](https://github.com/baaihealth/OpenComplex)

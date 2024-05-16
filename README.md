@@ -275,6 +275,14 @@ Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.
 JEvans, Richard, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Žídek et al.   
 [biorxiv (2021)](https://doi.org/10.1101/2021.10.04.463034) | [code](https://github.com/google-deepmind/alphafold)
 
+* **Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search** [2022]  
+Bryant, P., Pozzati, G., Zhu, W. et al.   
+[Nat Commun 13, 6028 (2022)](https://doi.org/10.1038/s41467-022-33729-4) | [code](https://github.com/patrickbryant1/MoLPC)
+
+* **HelixFold-Multimer: Elevating Protein Complex Structure Prediction to New Heights** [2024]  
+Fang, Xiaomin, Jie Gao, Jing Hu, Lihang Liu, Yang Xue, Xiaonan Zhang, and Kunrui Zhu.   
+[arXiv:2404.10260 (2024)](https://arxiv.org/html/2404.10260v1) | [code](https://paddlehelix.baidu.com/)
+
 * **Accurate structure prediction of biomolecular interactions with AlphaFold 3** [2024]  
 Abramson, J., Adler, J., Dunger, J. et al.   
 [Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)

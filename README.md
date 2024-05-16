@@ -9,7 +9,7 @@
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
-|  | [RoseTTAFold](#rosettafold) | [RoseTTAFold2](#rosettafold2) |  |
+| [Rosetta](#rosetta) | [RoseTTAFold](#rosettafold) | [RoseTTAFold2](#rosettafold2) |  |
 | [OpenFold](#openfold) | [Uni-Fold](#uni-fold) | [OmegaFold](#omegafold) | [EquiFold](#equifold) |
 | [ESMFold](#esmfold) |  |  |  |
 
@@ -80,6 +80,14 @@ Bryant, P., Pozzati, G., Zhu, W. et al.
 
 
 
+
+### Rosetta
+
+* **Rosetta**   
+The Rosetta software suite includes algorithms for computational modeling and analysis of protein structures. It has enabled notable scientific advances in computational biology, including de novo protein design, enzyme design, ligand docking, and structure prediction of biological macromolecules and macromolecular complexes.  
+Rosetta development began in the laboratory of Dr. David Baker at the University of Washington as a structure prediction tool but since then has been adapted to solve common computational macromolecular problems.
+
+https://www.rosettacommons.org
 
 
 

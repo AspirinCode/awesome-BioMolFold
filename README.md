@@ -129,7 +129,7 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 
 * **OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization** [2022]  
 Ahdritz, Gustaf, Nazim Bouatta, Sachin Kadyan, Qinghui Xia, William Gerecke, Timothy J. O’Donnell, Daniel Berenberg et al.   
-[Biorxiv (2022)](https://doi.org/10.1101/2022.11.20.517210) | [code](https://github.com/aqlaboratory/openfold)
+[Nat Methods (2024)](https://doi.org/10.1038/s41592-024-02272-z) | [Biorxiv (2022)](https://doi.org/10.1101/2022.11.20.517210) | [code](https://github.com/aqlaboratory/openfold)
 
 
 

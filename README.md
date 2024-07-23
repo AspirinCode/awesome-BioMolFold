@@ -198,6 +198,10 @@ Townshend, Raphael JL, Stephan Eismann, Andrew M. Watkins, Ramya Rangan, Masha K
 Jingcheng, Yu and Zhaoming, Chen and Zhaoqun, Li and Mingliang, Zeng and Wenjun, Lin and He, Huang and Qiwei, Ye.   
 [code](https://github.com/baaihealth/OpenComplex)
 
+* **RNA secondary structure packages evaluated and improved by high-throughput experiments** [2022]  
+Wayment-Steele, H.K., Kladwang, W., Strom, A.I. et al.   
+[Nat Methods 19, 1234–1242 (2022)](https://doi.org/10.1038/s41592-022-01605-0) | [code](https://github.com/eternagame/EternaFold)
+
 * **RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models** [2024]  
 Huang, Han, Ziqian Lin, Dongchen He, Liang Hong, and Yu Li.   
 [bioRxiv (2024)](https://doi.org/10.1101/2024.04.18.590187) | [code](https://github.com/GRAPH-0/RiboDiffusion)

@@ -77,7 +77,9 @@ JEvans, Richard, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew
 Bryant, P., Pozzati, G., Zhu, W. et al.   
 [Nat Commun 13, 6028 (2022)](https://doi.org/10.1038/s41467-022-33729-4) | [code](https://github.com/patrickbryant1/MoLPC)
 
-
+* **Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile** [2024]  
+Patrick Bryant, Frank Noé.   
+[PLOS Computational Biology (2024)](https://doi.org/10.1371/journal.pcbi.1012253) | [code](https://github.com/patrickbryant1/AFProfile)
 
 
 

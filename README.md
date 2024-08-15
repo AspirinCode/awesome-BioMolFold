@@ -12,7 +12,7 @@
 | [Rosetta](#rosetta) | [RoseTTAFold](#rosettafold) | [RoseTTAFold2](#rosettafold2) | [RoseTTAFold2NA](#rosettafold2na) |
 | [OpenFold](#openfold) | [Uni-Fold](#uni-fold) | [OmegaFold](#omegafold) | [EquiFold](#equifold) |
 | [ESMFold](#esmfold) |  |  |  |
-
+| [Folding-guide ligand discovery](#folding-guide-ligand-discovery) |  |  |  |
 
 **Based on the classification of biomolecules**
 
@@ -178,6 +178,18 @@ Lee, Jae Hyeon, Payman Yadollahpour, Andrew Watkins, Nathan C. Frey, Andrew Leav
 * **Evolutionary-scale prediction of atomic-level protein structure with a language model** [2023]  
 Lin, Zeming, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin et al.   
 [Science 379.6637 (2023)](https://doi.org/10.1126/science.ade2574) | [code](https://github.com/facebookresearch/esm)
+
+
+
+
+### Folding-guide ligand discovery
+
+
+
+* **AlphaFold2 structures guide prospective ligand discovery** [2024]  
+Lyu, J., Kapolka, N., Gumpper, R., Alon, A., Wang, L., Jain, M.K., Barros-Álvarez, X., Sakamoto, K., Kim, Y., DiBerto, J. and Kim, K..   
+[Science (2024)](https://doi.org/10.1126/science.adn6354)  
+
 
 
 

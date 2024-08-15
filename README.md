@@ -53,7 +53,9 @@ Senior, A.W., Evans, R., Jumper, J. et al.
 Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool et al.   
 [Nature 596, 583–589 (2021)](https://doi.org/10.1038/s41586-021-03819-2) | [code](https://github.com/google-deepmind/alphafold)
 
-
+* **Benchmarking of AlphaFold2 accuracy self-estimates as indicators of empirical model quality and ranking: a comparison with independent model quality assessment programmes** [2024]  
+Nicholas S Edmunds, Ahmet G Genc, Liam J McGuffin.   
+[Bioinformatics (2024)](https://doi.org/10.1093/bioinformatics/btae491)  
 
 
 
